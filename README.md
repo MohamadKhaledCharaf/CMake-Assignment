@@ -9,9 +9,6 @@ A C++ project that processes point clouds using the Point Cloud Library (PCL) an
 2. [Dependencies](#dependencies)
 3. [Build Instructions](#build-instructions)
 4. [Usage](#usage)
-5. [File Structure](#file-structure)
-6. [License](#license)
-
 ---
 
 ## Features
