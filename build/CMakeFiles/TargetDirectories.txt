@@ -1,0 +1,7 @@
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/point_cloud_processor.dir
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/edit_cache.dir
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/rebuild_cache.dir
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/list_install_components.dir
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/install.dir
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/install/local.dir
+/home/mohamad-khaled-charaf/Desktop/AUB/inmind/PointCloudProcessor/build/CMakeFiles/install/strip.dir
